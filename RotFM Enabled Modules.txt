@@ -1,0 +1,53 @@
+Ambient Doors
+Automated Animations
+Babele
+Better Roofs
+Better Target
+Combat Enhancements
+Combat Numbers
+D&D Beyond Importer
+DF Chat Enhancements
+Dice so Nice!
+Dice Tray
+DnD5 Cheatsheet
+Drag Ruler
+Dynamic effects using Active Effects
+Foundry Community Macros
+Foundry Community Tables
+FXMaster
+Giffyglyph's 5e Monster Maker
+GM Screen
+Health Estimate
+Illandril's Hotbar Uses
+Illandril's Tidy Module Settings
+Illandril's Token HUD scaler
+Illandril's Token Quick Actions (5e)
+Illandril's Token Tooltips
+JB2A - Jules&Ben's Animated Assets - Free Content
+Less Fog
+lib - Color Settings
+Library: Chat Commands
+Library: DF Hotkeys
+libWrapper
+Magic Items
+Midi QOL
+Monk's Enhanced Journal
+Monk's Little Details
+Monk's TokenBar
+Moulinette (All)
+Multilevel Tokens
+Perfect Vision
+Pings
+PopOut!
+Scene Transitions
+Sequencer
+Settings Extender
+Skill Customization for D&D5e
+socketlib
+Token Action HUD
+Token Health
+Token Info Icons
+Token Mold
+Torch
+Turn Marker
+Universal Battlemap Importer

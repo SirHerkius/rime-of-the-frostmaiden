@@ -1,0 +1,143 @@
+{
+  "name": "rime-of-the-frost-maiden",
+  "title": "Rime of the Frostmaiden",
+  "description": "<p>Bajo el inflexible cielo nocturno, os encontrais frente a un enorme glaciar y recitais una antigua rima, haciendo que aparezcan grietas en la gran muralla de hielo.</p>\n<p>Más allá de la fisura, las Cuevas del Hambre esperan. Y más allá de esta mazmorra helada hay un secreto tan antiguo y terrorífico que pocos se atreven a mencionarlo siquiera. Los magos locos de la Hermandad Arcana anhelan poseer aquello que la ira del dios del invierno ha preservado en frío. ¡Igual que vosotros!</p>\n<p>¿Qué fantásticos secretos y tesoros se encuentran sepultados en el corazón sin sol del glaciar, y qué significará su descubrimiento para los habitantes del Valle? ¿Podéis salvar a los Diez Pueblos de la noche eterna de la Doncella de Hielo?</p>",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "label": "Plutonium-Classes",
+      "entity": "Item",
+      "name": "plutonium-classes",
+      "path": "packs/plutonium-classes.db",
+      "system": "dnd5e",
+      "package": "world",
+      "private": false,
+      "absPath": "C:\\Users\\Sergio\\Documents\\FoundryVTTData\\Data\\worlds\\rime-of-the-frost-maiden\\packs\\plutonium-classes.db",
+      "type": "Item"
+    },
+    {
+      "label": "Plutonium-Subclasses",
+      "entity": "Item",
+      "name": "plutonium-subclasses",
+      "path": "packs/plutonium-subclasses.db",
+      "system": "dnd5e",
+      "package": "world",
+      "private": false,
+      "absPath": "C:\\Users\\Sergio\\Documents\\FoundryVTTData\\Data\\worlds\\rime-of-the-frost-maiden\\packs\\plutonium-subclasses.db",
+      "type": "Item"
+    },
+    {
+      "label": "Plutonium-Features",
+      "entity": "Item",
+      "name": "plutonium-features",
+      "path": "packs/plutonium-features.db",
+      "system": "dnd5e",
+      "package": "world",
+      "private": false,
+      "absPath": "C:\\Users\\Sergio\\Documents\\FoundryVTTData\\Data\\worlds\\rime-of-the-frost-maiden\\packs\\plutonium-features.db",
+      "type": "Item"
+    },
+    {
+      "label": "Plutonium-Backgrounds",
+      "entity": "Item",
+      "name": "plutonium-backgrounds",
+      "path": "packs/plutonium-backgrounds.db",
+      "system": "dnd5e",
+      "package": "world",
+      "private": false,
+      "absPath": "C:\\Users\\Sergio\\Documents\\FoundryVTTData\\Data\\worlds\\rime-of-the-frost-maiden\\packs\\plutonium-backgrounds.db",
+      "type": "Item"
+    },
+    {
+      "label": "Plutonium-Feats",
+      "entity": "Item",
+      "name": "plutonium-feats",
+      "path": "packs/plutonium-feats.db",
+      "system": "dnd5e",
+      "package": "world",
+      "private": false,
+      "absPath": "C:\\Users\\Sergio\\Documents\\FoundryVTTData\\Data\\worlds\\rime-of-the-frost-maiden\\packs\\plutonium-feats.db",
+      "type": "Item"
+    },
+    {
+      "label": "Plutonium-Items",
+      "entity": "Item",
+      "name": "plutonium-items",
+      "path": "packs/plutonium-items.db",
+      "system": "dnd5e",
+      "package": "world",
+      "private": false,
+      "absPath": "C:\\Users\\Sergio\\Documents\\FoundryVTTData\\Data\\worlds\\rime-of-the-frost-maiden\\packs\\plutonium-items.db",
+      "type": "Item"
+    },
+    {
+      "label": "Plutonium-Spells",
+      "entity": "Item",
+      "name": "plutonium-spells",
+      "path": "packs/plutonium-spells.db",
+      "system": "dnd5e",
+      "package": "world",
+      "private": false,
+      "absPath": "C:\\Users\\Sergio\\Documents\\FoundryVTTData\\Data\\worlds\\rime-of-the-frost-maiden\\packs\\plutonium-spells.db",
+      "type": "Item"
+    },
+    {
+      "label": "Plutonium-ClassOptions",
+      "entity": "Item",
+      "name": "plutonium-classoptions",
+      "path": "packs/plutonium-classoptions.db",
+      "system": "dnd5e",
+      "package": "world",
+      "private": false,
+      "absPath": "C:\\Users\\Sergio\\Documents\\FoundryVTTData\\Data\\worlds\\rime-of-the-frost-maiden\\packs\\plutonium-classoptions.db",
+      "type": "Item"
+    },
+    {
+      "label": "Plutonium-Races",
+      "entity": "Item",
+      "name": "plutonium-races",
+      "path": "packs/plutonium-races.db",
+      "system": "dnd5e",
+      "package": "world",
+      "private": false,
+      "absPath": "C:\\Users\\Sergio\\Documents\\FoundryVTTData\\Data\\worlds\\rime-of-the-frost-maiden\\packs\\plutonium-races.db",
+      "type": "Item"
+    },
+    {
+      "label": "Plutonium-Languages",
+      "entity": "JournalEntry",
+      "name": "plutonium-languages",
+      "path": "packs/plutonium-languages.db",
+      "system": "dnd5e",
+      "package": "world",
+      "private": false,
+      "absPath": "C:\\Users\\Sergio\\Documents\\FoundryVTTData\\Data\\worlds\\rime-of-the-frost-maiden\\packs\\plutonium-languages.db",
+      "type": "JournalEntry"
+    },
+    {
+      "label": "Plutonium-Creatures",
+      "entity": "Actor",
+      "name": "plutonium-creatures",
+      "path": "packs/plutonium-creatures.db",
+      "system": "dnd5e",
+      "package": "world",
+      "private": false,
+      "type": "Actor"
+    }
+  ],
+  "system": "dnd5e",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "background": "worlds/rime-of-the-frost-maiden/Backgrounds/background.1400x1050.jpg",
+  "coreVersion": "9.249",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "1.5.7"
+}
