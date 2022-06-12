@@ -1,0 +1,691 @@
+{
+  "activeModules": [
+    {
+      "id": "acelib",
+      "title": "Ace library",
+      "version": ""
+    },
+    {
+      "id": "ambientdoors",
+      "title": "Ambient Doors",
+      "version": ""
+    },
+    {
+      "id": "autoanimations",
+      "title": "Automated Animations",
+      "version": ""
+    },
+    {
+      "id": "better-target",
+      "title": "Better Target",
+      "version": ""
+    },
+    {
+      "id": "lib-changelogs",
+      "title": "Changelogs & Conflicts",
+      "version": ""
+    },
+    {
+      "id": "character-actions-list-5e",
+      "title": "Character Actions List dnd5e",
+      "version": ""
+    },
+    {
+      "id": "colored-folder-contents",
+      "title": "Colored Folder Contents",
+      "version": ""
+    },
+    {
+      "id": "combat-carousel",
+      "title": "Combat Carousel",
+      "version": ""
+    },
+    {
+      "id": "combat-enhancements",
+      "title": "Combat Enhancements",
+      "version": ""
+    },
+    {
+      "id": "combat-numbers",
+      "title": "Combat Numbers",
+      "version": ""
+    },
+    {
+      "id": "combat-utility-belt",
+      "title": "Combat Utility Belt",
+      "version": ""
+    },
+    {
+      "id": "df-chat-enhance",
+      "title": "DF Chat Enhancements",
+      "version": ""
+    },
+    {
+      "id": "df-curvy-walls",
+      "title": "DF Curvy Walls",
+      "version": ""
+    },
+    {
+      "id": "dice-so-nice",
+      "title": "Dice So Nice!",
+      "version": ""
+    },
+    {
+      "id": "dice-calculator",
+      "title": "Dice Tray",
+      "version": ""
+    },
+    {
+      "id": "drag-ruler",
+      "title": "Drag Ruler",
+      "version": ""
+    },
+    {
+      "id": "dae",
+      "title": "Dynamic effects using Active Effects",
+      "version": ""
+    },
+    {
+      "id": "forien-copy-environment",
+      "title": "Forien's Copy Environment",
+      "version": ""
+    },
+    {
+      "id": "foundry_community_macros",
+      "title": "Foundry Community Macros",
+      "version": ""
+    },
+    {
+      "id": "foundry_community_tables",
+      "title": "Foundry Community Tables",
+      "version": ""
+    },
+    {
+      "id": "fxmaster",
+      "title": "FXMaster",
+      "version": ""
+    },
+    {
+      "id": "giffyglyphs-5e-monster-maker",
+      "title": "Giffyglyph's 5e Monster Maker",
+      "version": ""
+    },
+    {
+      "id": "gm-screen",
+      "title": "GM Screen",
+      "version": ""
+    },
+    {
+      "id": "healthEstimate",
+      "title": "Health Estimate",
+      "version": ""
+    },
+    {
+      "id": "illandril-hotbar-uses",
+      "title": "Illandril's Hotbar Uses",
+      "version": ""
+    },
+    {
+      "id": "illandril-tidy-module-settings",
+      "title": "Illandril's Tidy Module Settings",
+      "version": ""
+    },
+    {
+      "id": "illandril-token-hud-scale",
+      "title": "Illandril's Token HUD scaler",
+      "version": ""
+    },
+    {
+      "id": "illandril-npc-quick-actions",
+      "title": "Illandril's Token Quick Actions (5e)",
+      "version": ""
+    },
+    {
+      "id": "illandril-token-tooltips",
+      "title": "Illandril's Token Tooltips",
+      "version": ""
+    },
+    {
+      "id": "JB2A_DnD5e",
+      "title": "JB2A - Jules and Ben's Animated Assets - Free Content",
+      "version": ""
+    },
+    {
+      "id": "lessfog",
+      "title": "Less Fog",
+      "version": ""
+    },
+    {
+      "id": "colorsettings",
+      "title": "lib - Color Settings",
+      "version": ""
+    },
+    {
+      "id": "_document-sheet-registrar",
+      "title": "Lib: Document Sheet Registrar",
+      "version": ""
+    },
+    {
+      "id": "_chatcommands",
+      "title": "Library: Chat Commands",
+      "version": ""
+    },
+    {
+      "id": "scene-packer",
+      "title": "Library: Scene Packer",
+      "version": ""
+    },
+    {
+      "id": "lib-wrapper",
+      "title": "libWrapper",
+      "version": "0"
+    },
+    {
+      "id": "macroeditor",
+      "title": "Macro Editor",
+      "version": ""
+    },
+    {
+      "id": "midi-qol",
+      "title": "Midi QOL",
+      "version": ""
+    },
+    {
+      "id": "monks-enhanced-journal",
+      "title": "Monk's Enhanced Journal",
+      "version": ""
+    },
+    {
+      "id": "monks-little-details",
+      "title": "Monk's Little Details",
+      "version": ""
+    },
+    {
+      "id": "monks-scene-navigation",
+      "title": "Monk's Scene Navigation",
+      "version": ""
+    },
+    {
+      "id": "monks-tokenbar",
+      "title": "Monk's TokenBar",
+      "version": ""
+    },
+    {
+      "id": "pings",
+      "title": "Pings",
+      "version": ""
+    },
+    {
+      "id": "plutonium",
+      "title": "Plutonium",
+      "version": ""
+    },
+    {
+      "id": "smip-compendium",
+      "title": "Sane Magical Item Prices Compendium",
+      "version": ""
+    },
+    {
+      "id": "sequencer",
+      "title": "Sequencer",
+      "version": ""
+    },
+    {
+      "id": "settings-extender",
+      "title": "Settings Extender",
+      "version": ""
+    },
+    {
+      "id": "socketlib",
+      "title": "socketlib",
+      "version": ""
+    },
+    {
+      "id": "tidy5e-sheet",
+      "title": "Tidy5e Sheet",
+      "version": ""
+    },
+    {
+      "id": "tidy-ui_game-settings",
+      "title": "Tidy UI - Game Settings",
+      "version": ""
+    },
+    {
+      "id": "token-attacher",
+      "title": "Token Attacher",
+      "version": ""
+    },
+    {
+      "id": "token-health",
+      "title": "Token Health",
+      "version": ""
+    },
+    {
+      "id": "token-info-icons",
+      "title": "Token Info Icons",
+      "version": ""
+    },
+    {
+      "id": "vtta-tokenizer",
+      "title": "Tokenizer",
+      "version": ""
+    },
+    {
+      "id": "token-mold",
+      "title": "Token Mold",
+      "version": ""
+    },
+    {
+      "id": "torch",
+      "title": "Torch",
+      "version": ""
+    },
+    {
+      "id": "dd-import",
+      "title": "Universal Battlemap Importer",
+      "version": ""
+    }
+  ],
+  "inactiveModules": [
+    {
+      "id": "advanced-macros",
+      "title": "Advanced Macros",
+      "version": ""
+    },
+    {
+      "id": "enhancedcombathud",
+      "title": "Argon - Combat HUD",
+      "version": ""
+    },
+    {
+      "id": "baileywiki-maps",
+      "title": "Baileywiki Maps Pack",
+      "version": ""
+    },
+    {
+      "id": "betterroofs",
+      "title": "Better Roofs",
+      "version": ""
+    },
+    {
+      "id": "caeora-maps-tokens-assets",
+      "title": "Caeora's Maps, Tokens, and Assets",
+      "version": ""
+    },
+    {
+      "id": "foundry-combat-focus",
+      "title": "Combat Focus",
+      "version": ""
+    },
+    {
+      "id": "dlopen",
+      "title": "dlopen",
+      "version": ""
+    },
+    {
+      "id": "dww-ancient-tomb-interior",
+      "title": "Domille's Wondrous Works – Ancient Tomb Interior",
+      "version": ""
+    },
+    {
+      "id": "dww-battlemaps",
+      "title": "Domille's Wondrous Works - Battlemap Collection",
+      "version": ""
+    },
+    {
+      "id": "dww-calcifers-drift-airship",
+      "title": "Domille's wondrous works - Calcifer Drift Airship",
+      "version": ""
+    },
+    {
+      "id": "dww-city-bridge",
+      "title": "Domille's Wondrous Works – City Bridge",
+      "version": ""
+    },
+    {
+      "id": "dww-cloud-temple-interior",
+      "title": "Domille's Wondrous Works – Cloud Temple Interior",
+      "version": ""
+    },
+    {
+      "id": "dww-crashing-airship",
+      "title": "Domille's Wondrous Works – Crashing Airship",
+      "version": ""
+    },
+    {
+      "id": "dww-crashing-train",
+      "title": "Domille's Wondrous Works – Crashing Train",
+      "version": ""
+    },
+    {
+      "id": "dww-egyptian-temple-exterior",
+      "title": "Domille's wondrous works - Egyptian Temple Exterior",
+      "version": ""
+    },
+    {
+      "id": "dww-golden-bridge",
+      "title": "Domille's Wondrous Works – Golden Bridge",
+      "version": ""
+    },
+    {
+      "id": "dww-jungle-serpent",
+      "title": "Domille's Wondrous Works – Jungle Serpent",
+      "version": ""
+    },
+    {
+      "id": "dww-old-god-awakening",
+      "title": "Domille's wondrous works - Old God Awakening",
+      "version": ""
+    },
+    {
+      "id": "dww-old-god-mountain",
+      "title": "Domille's wondrous works - Old God Mountain",
+      "version": ""
+    },
+    {
+      "id": "dww-place-of-sacrifice",
+      "title": "Domille's Wondrous Works – Place of Sacrifice",
+      "version": ""
+    },
+    {
+      "id": "dww-pond-hut",
+      "title": "Domille's Wondrous Works – Pond Hut",
+      "version": ""
+    },
+    {
+      "id": "dww-ritual-temple",
+      "title": "Domille's wondrous works - Ritual Temple",
+      "version": ""
+    },
+    {
+      "id": "dww-river-styx",
+      "title": "Domille's wondrous works - River Styx",
+      "version": ""
+    },
+    {
+      "id": "dww-roc-mount",
+      "title": "Domille's wondrous works - Roc Mount",
+      "version": ""
+    },
+    {
+      "id": "dww-rope-bridge",
+      "title": "Domille's Wondrous Works – Rope Bridge",
+      "version": ""
+    },
+    {
+      "id": "dww-small-sinking-boat",
+      "title": "Domille's Wondrous Works – Small Sinking Boat",
+      "version": ""
+    },
+    {
+      "id": "dww-volcano-temple",
+      "title": "Domille's Wondrous Works – Volcano Temple",
+      "version": ""
+    },
+    {
+      "id": "dww-waterfall-statues",
+      "title": "Domille's Wondrous Works – Waterfall Statues",
+      "version": ""
+    },
+    {
+      "id": "dragonfiremaps",
+      "title": "Dragonfire Maps",
+      "version": ""
+    },
+    {
+      "id": "gAudioBundle-1",
+      "title": "Game Audio Bundle 1",
+      "version": ""
+    },
+    {
+      "id": "gAudioBundle-2",
+      "title": "Game Audio Bundle 2",
+      "version": ""
+    },
+    {
+      "id": "gAudioBundle-3",
+      "title": "Game Audio Bundle 3",
+      "version": ""
+    },
+    {
+      "id": "gAudioBundle-4",
+      "title": "Game Audio Bundle 4",
+      "version": ""
+    },
+    {
+      "id": "scaleGrid",
+      "title": "Grid Scale Menu",
+      "version": ""
+    },
+    {
+      "id": "hey-wait",
+      "title": "Hey, Wait!",
+      "version": ""
+    },
+    {
+      "id": "ivan-duch-music-packs",
+      "title": "Ivan Duch's Music Packs",
+      "version": ""
+    },
+    {
+      "id": "levels",
+      "title": "Levels",
+      "version": ""
+    },
+    {
+      "id": "lib-df-hotkeys",
+      "title": "Library: DF Hotkeys",
+      "version": ""
+    },
+    {
+      "id": "lichtgeschwindigkeit",
+      "title": "Lichtgeschwindigkeit (Lightspeed)",
+      "version": ""
+    },
+    {
+      "id": "LockView",
+      "title": "Lock View",
+      "version": ""
+    },
+    {
+      "id": "magicitems",
+      "title": "Magic Items",
+      "version": ""
+    },
+    {
+      "id": "michaelghelfi",
+      "title": "Michael Ghelfi Studios Audio Pack",
+      "version": ""
+    },
+    {
+      "id": "milbys-maps-free",
+      "title": "Milby's Maps Free",
+      "version": ""
+    },
+    {
+      "id": "miskasmaps",
+      "title": "Miska's Maps - Battlemaps - Starter Pack",
+      "version": ""
+    },
+    {
+      "id": "moulinette-core",
+      "title": "Moulinette Core",
+      "version": ""
+    },
+    {
+      "id": "moulinette-gameicons",
+      "title": "Moulinette Game Icons (module)",
+      "version": ""
+    },
+    {
+      "id": "moulinette-imagesearch",
+      "title": "Moulinette Image Search (module)",
+      "version": ""
+    },
+    {
+      "id": "moulinette-scenes",
+      "title": "Moulinette Scenes (module)",
+      "version": ""
+    },
+    {
+      "id": "moulinette-sounds",
+      "title": "Moulinette Sounds & SoundPad (module)",
+      "version": ""
+    },
+    {
+      "id": "moulinette-tiles",
+      "title": "Moulinette Tiles (module)",
+      "version": ""
+    },
+    {
+      "id": "multilevel-tokens",
+      "title": "Multilevel Tokens",
+      "version": ""
+    },
+    {
+      "id": "parallaxia",
+      "title": "Parallaxia",
+      "version": ""
+    },
+    {
+      "id": "perfect-vision",
+      "title": "Perfect Vision",
+      "version": ""
+    },
+    {
+      "id": "select-tool-everywhere",
+      "title": "Select tool everywhere",
+      "version": ""
+    },
+    {
+      "id": "skill-customization-5e",
+      "title": "Skill Customization for D&D5e",
+      "version": ""
+    },
+    {
+      "id": "spell-level-buttons-for-dnd5e",
+      "title": "Spell Level Buttons for DnD 5e",
+      "version": ""
+    },
+    {
+      "id": "statdrawer",
+      "title": "Stat Drawer",
+      "version": ""
+    },
+    {
+      "id": "steves-scenes",
+      "title": "Steve's Scenes",
+      "version": ""
+    },
+    {
+      "id": "storyteller",
+      "title": "Storyteller",
+      "version": ""
+    },
+    {
+      "id": "tabletop-rpg-music",
+      "title": "Tabletop RPG Music",
+      "version": ""
+    },
+    {
+      "id": "tacticalmap-free",
+      "title": "TacticalMap Battlemaps",
+      "version": ""
+    },
+    {
+      "id": "mad-woadvbunker",
+      "title": "The MAD Cartographer - Bunker of Shazsha",
+      "version": ""
+    },
+    {
+      "id": "mad-caverns",
+      "title": "The MAD Cartographer | Caverns | Battlemap Pack",
+      "version": ""
+    },
+    {
+      "id": "mad-woadvmedusa",
+      "title": "The MAD Cartographer - Curse of Medusa",
+      "version": ""
+    },
+    {
+      "id": "mad-curseoffrost",
+      "title": "The MAD Cartographer | Curse of the Frostmaiden | Battlemap Pack",
+      "version": ""
+    },
+    {
+      "id": "mad-woadvdeclab",
+      "title": "The MAD Cartographer - Decayed Laboratory",
+      "version": ""
+    },
+    {
+      "id": "mad-dreadeddomains2",
+      "title": "The MAD Cartographer | Dreaded Domains 2 | Battlemap Pack",
+      "version": ""
+    },
+    {
+      "id": "mad-forestwild",
+      "title": "The MAD Cartographer | Forest Wilderness | Battlemap Pack",
+      "version": ""
+    },
+    {
+      "id": "mad-woadvfountochk",
+      "title": "The MAD Cartographer - Fountain of Ochkhoro",
+      "version": ""
+    },
+    {
+      "id": "mad-cartographer-free-maps",
+      "title": "The MAD Cartographer | Free Battlemap Pack",
+      "version": ""
+    },
+    {
+      "id": "mad-picknmix2",
+      "title": "The MAD Cartographer | Pick N Mix 2 | Battlemap Pack",
+      "version": ""
+    },
+    {
+      "id": "mad-summerbun",
+      "title": "The MAD Cartographer | Summer Bundle | Battlemap Pack",
+      "version": ""
+    },
+    {
+      "id": "mad-woadvbloodm",
+      "title": "The MAD Cartographer - The Blood Mines",
+      "version": ""
+    },
+    {
+      "id": "mad-craftycollection",
+      "title": "The MAD Cartographer | The Crafty Collection | Battlemap Pack",
+      "version": ""
+    },
+    {
+      "id": "mad-thewormwitch",
+      "title": "The MAD Cartographer - The Worm Witch",
+      "version": ""
+    },
+    {
+      "id": "mad-thingsfrozen",
+      "title": "The MAD Cartographer - Things Frozen",
+      "version": ""
+    },
+    {
+      "id": "mad-urbanext",
+      "title": "The MAD Cartographer | Urban Exteriors | Battlemap Pack",
+      "version": ""
+    },
+    {
+      "id": "mad-winterscenes",
+      "title": "The MAD Cartographer | Winter Scenes",
+      "version": ""
+    },
+    {
+      "id": "vueport",
+      "title": "VuePort: Let the Light in!",
+      "version": ""
+    },
+    {
+      "id": "wall-height",
+      "title": "Wall Height",
+      "version": ""
+    }
+  ]
+}
