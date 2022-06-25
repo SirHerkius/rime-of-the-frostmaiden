@@ -11,6 +11,11 @@
       "version": ""
     },
     {
+      "id": "enhancedcombathud",
+      "title": "Argon - Combat HUD",
+      "version": ""
+    },
+    {
       "id": "autoanimations",
       "title": "Automated Animations",
       "version": ""
@@ -86,6 +91,11 @@
       "version": ""
     },
     {
+      "id": "pdf-sheet",
+      "title": "Export Sheet to PDF",
+      "version": ""
+    },
+    {
       "id": "forien-copy-environment",
       "title": "Forien's Copy Environment",
       "version": ""
@@ -123,11 +133,6 @@
     {
       "id": "illandril-hotbar-uses",
       "title": "Illandril's Hotbar Uses",
-      "version": ""
-    },
-    {
-      "id": "illandril-tidy-module-settings",
-      "title": "Illandril's Tidy Module Settings",
       "version": ""
     },
     {
@@ -293,11 +298,6 @@
       "version": ""
     },
     {
-      "id": "enhancedcombathud",
-      "title": "Argon - Combat HUD",
-      "version": ""
-    },
-    {
       "id": "baileywiki-maps",
       "title": "Baileywiki Maps Pack",
       "version": ""
@@ -454,12 +454,17 @@
     },
     {
       "id": "scaleGrid",
-      "title": "Grid Scale Menu",
+      "title": "Grid Scaler",
       "version": ""
     },
     {
       "id": "hey-wait",
       "title": "Hey, Wait!",
+      "version": ""
+    },
+    {
+      "id": "illandril-tidy-module-settings",
+      "title": "Illandril's Tidy Module Settings",
       "version": ""
     },
     {

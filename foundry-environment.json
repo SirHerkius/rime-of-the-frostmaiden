@@ -118,6 +118,12 @@
       "manifest": "https://raw.githubusercontent.com/manuelVo/foundryvtt-drag-ruler/master/module.json"
     },
     {
+      "id": "enhancedcombathud",
+      "version": "1.3.2",
+      "author": "theripper93, Mouse0270",
+      "manifest": "https://github.com/theripper93/enhancedcombathud/releases/latest/download/module.json"
+    },
+    {
       "id": "forien-copy-environment",
       "version": "2.0.7",
       "author": "Forien — Forien#2130",
@@ -143,7 +149,7 @@
     },
     {
       "id": "giffyglyphs-5e-monster-maker",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": "Giffyglyph",
       "manifest": "https://raw.githubusercontent.com/giffyglyph/foundry_5e_monster_maker/master/module.json"
     },
@@ -170,12 +176,6 @@
       "version": "1.3.4",
       "author": "Joe Spandrusyszyn (illandril)",
       "manifest": "https://github.com/illandril/FoundryVTT-npc-quick-actions/releases/latest/download/module.json"
-    },
-    {
-      "id": "illandril-tidy-module-settings",
-      "version": "1.0.7",
-      "author": "Joe Spandrusyszyn (illandril)",
-      "manifest": "https://github.com/illandril/FoundryVTT-tidy-module-settings/releases/latest/download/module.json"
     },
     {
       "id": "illandril-token-hud-scale",
@@ -247,6 +247,12 @@
       "version": "1.0.63",
       "author": "IronMonk",
       "manifest": "https://github.com/ironmonk88/monks-tokenbar/releases/latest/download/module.json"
+    },
+    {
+      "id": "pdf-sheet",
+      "version": "0.20.0",
+      "author": "Arcanist",
+      "manifest": "https://github.com/arcanistzed/pdf-sheet/releases/latest/download/module.json"
     },
     {
       "id": "pings",
