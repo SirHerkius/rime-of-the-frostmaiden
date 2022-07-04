@@ -8,9 +8,11 @@
 {"_id":"MJ9tbMEGMym1xS74","name":"Official Adventure","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"#56adb3","flags":{}}
 {"_id":"V8nc7nRg9sezu0x1","name":"Official Adventure","type":"JournalEntry","parent":null,"sorting":"m","sort":0,"color":"#4eabbc","flags":{}}
 {"_id":"VRFoDIvjcgdFMpyb","name":"Magic Items","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#d4aa35","flags":{}}
+{"name":"Firearms","type":"Item","parent":null,"sorting":"a","sort":0,"color":"#ce3b3b","flags":{"scene-packer":{"hash":"23b67458a61405823d0d5c1382234776ae830d28"}},"_id":"WJEGBFN9IHWk3Ff2"}
 {"name":"Heroic Chronicle","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"WcvoQA0neKZQVrgE"}
 {"_id":"a9G3vvsIfq0UDFLF","name":"Random Encounters","type":"Scene","parent":null,"sorting":"a","sort":0,"color":"#bf67c1","flags":{}}
 {"name":"Official Adventure","type":"Scene","parent":null,"sorting":"a","sort":0,"color":"#42aebd","flags":{},"_id":"eitm9V6TMOb8bIyp"}
+{"_id":"lLNb0cyo0HcDmCmY","name":"Termalaine","type":"Scene","parent":null,"sorting":"a","sort":0,"color":"#1a45a8","flags":{}}
 {"_id":"rMQRx9O9RqGwODIS","name":"Official Adventure","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":"#58b5c6","flags":{}}
 {"_id":"scfaCy6TdQ066CVK","name":"Drows Scaled","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"#67269c","flags":{}}
 {"_id":"zsALlYnGst42pZxT","name":"Healer Tower","type":"Scene","parent":null,"sorting":"a","sort":0,"color":"#568f72","flags":{}}
