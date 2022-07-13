@@ -12,7 +12,9 @@
 {"name":"Heroic Chronicle","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"WcvoQA0neKZQVrgE"}
 {"_id":"a9G3vvsIfq0UDFLF","name":"Random Encounters","type":"Scene","parent":null,"sorting":"a","sort":0,"color":"#bf67c1","flags":{}}
 {"name":"Official Adventure","type":"Scene","parent":null,"sorting":"a","sort":0,"color":"#42aebd","flags":{},"_id":"eitm9V6TMOb8bIyp"}
+{"_id":"fHc5wdI8HVeNUtFm","name":"Heroic Chronicles","type":"Scene","parent":null,"sorting":"a","sort":0,"color":"#ffbd2e","flags":{"scene-packer":{"hash":"e05d32f3cce4c4d0cd8e7b7881702f48815e2e64"}}}
 {"_id":"lLNb0cyo0HcDmCmY","name":"Termalaine","type":"Scene","parent":null,"sorting":"a","sort":0,"color":"#1a45a8","flags":{}}
 {"_id":"rMQRx9O9RqGwODIS","name":"Official Adventure","type":"RollTable","parent":null,"sorting":"a","sort":0,"color":"#58b5c6","flags":{}}
-{"_id":"scfaCy6TdQ066CVK","name":"Drows Scaled","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"#67269c","flags":{}}
+{"_id":"scfaCy6TdQ066CVK","name":"Drows","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"#67269c","flags":{}}
 {"_id":"zsALlYnGst42pZxT","name":"Healer Tower","type":"Scene","parent":null,"sorting":"a","sort":0,"color":"#568f72","flags":{}}
+{"name":"Duergar","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"#5a5858","flags":{"scene-packer":{"hash":"3d5c1bae83ad2e563aee301cd86ed0b6f09eef2b"}},"_id":"LACK7P2fbBfZJNBs"}
