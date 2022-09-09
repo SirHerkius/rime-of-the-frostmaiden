@@ -136,7 +136,7 @@
   "socket": false,
   "protected": false,
   "background": "worlds/rime-of-the-frost-maiden/Backgrounds/background.1400x1050.jpg",
-  "coreVersion": "9.269",
+  "coreVersion": "9.280",
   "resetKeys": false,
   "safeMode": false,
   "systemVersion": "1.6.3"
